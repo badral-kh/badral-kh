@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Badral
 #### I am a 3rd year Computer Science student at Carleton University
-I am currently looking for Summer and Fall 2022 internship :)
+I am currently searching for Summer and Fall 2022 internship :)
 
 Skills: Python, C/C++, Java, Javascript, SQL
 
