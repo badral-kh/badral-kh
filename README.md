@@ -3,6 +3,7 @@
 I am currently looking for Summer and Fall 2022 internship :)
 
 Skills: Python, C/C++, Java, Javascript, SQL
+
 Resume: [link](https://github.com/badral-kh/resume/raw/main/Badral_Khurelbaatar_Resume.pdf)
 
 
