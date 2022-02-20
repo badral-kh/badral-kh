@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Badral
-#### I am a 3rd year Computer Science student at Carleton University
-I am currently searching for Summer and Fall 2022 internship :)
+### Hey there 👋, i'm Badral
 
-Skills: Python, C/C++, Java, Javascript, SQL
+#### I am a 3rd year Honours Computer Science student at Carleton University in Ottawa Canada
 
-Resume: [Click Here](https://github.com/badral-kh/resume/raw/main/Badral_Khurelbaatar_Resume.pdf)
+I am currently searching for Summer and Fall 2022 internships to gain work experience prior to my graduation in Spring 2023 :)
 
+I have experience writing code in Python, C/C++, Java, Javascript, SQL and using various tools and frameworks such as React.js, Node.js, Express.js, Linux, and gdb.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badral-kh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  height='40'>](https://www.linkedin.com/in/badral/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  height='40'>](https://www.instagram.com/badral0318/)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/badral/) or take a look at my [Resume](https://github.com/badral-kh/resume/raw/main/Badral_Khurelbaatar_Resume.pdf)
 
 
 
