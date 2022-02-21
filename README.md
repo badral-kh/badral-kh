@@ -6,7 +6,7 @@ I am currently searching for Summer and Fall 2022 internships to gain work exper
 
 I have experience writing code in Python, C/C++, Java, Javascript, SQL and using various tools and frameworks such as React.js, Node.js, Express.js, Linux, and gdb.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/badral/) or take a look at my [Resume](https://github.com/badral-kh/resume/raw/main/Badral_Khurelbaatar_Resume.pdf)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/badral/) or take a look at my [Resume](https://github.com/badral-kh/resume/raw/main/Badral_Resume.pdf)
 
 
 
